@@ -1,2 +1,2 @@
 # hello-world
-repository one_into
+repository one_intro
